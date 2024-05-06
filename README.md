@@ -1,5 +1,9 @@
-Pembahasan UKK RPL TP.2023/2024 Website Galeri Foto
+Pembuatan Web Gallery XII PPLG 2
 
-Untuk Demo
-Username : user1
-Password : 12345
+GalleryWebSocial
+
+Fitur :
+-Komentar,Like,Unlike
+
+Masih ada update yang belum selesai untuk project dalam jangka panjang
+
